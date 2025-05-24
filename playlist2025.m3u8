@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",24 HORAS
+#EXTINF:-1 group-title="Noticias",24 HORAS
 http://190.217.80.250:8888/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",AE Mundo
+#EXTINF:-1 group-title="Cultural",AE Mundo
 http://190.217.80.250:8888/play/a023/index.m3u8
