@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/kUoEhzn.png" group-title="Noticias",24 HORAS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/kUoEhzn.png" group-title="Noticias",24 HORAS - EstrellaNet
 http://190.217.80.250:8888/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kUoEhzn.png" group-title="Cultural",AE Mundo
 http://190.217.80.250:8888/play/a023/index.m3u8
