@@ -9,3 +9,5 @@ http://38.7.204.232:8010/play/a2ps/index.m3u8
 http://38.183.182.166:8000/play/a10i/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://imgfz.com/i/bpNw4yO.png" tvg-id="CGTN" group-title="Internacional",CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="Televisa Novelas" tvg-logo="http://imgfz.com/i/bpNw4yO.png" tvg-id="Televisa Novelas" group-title="Internacional",Televisa Novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
