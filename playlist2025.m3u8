@@ -15,3 +15,5 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RT" tvg-logo="http://imgfz.com/i/bpNw4yO.png" tvg-id="RT" group-title="Internacional",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="Microvision" tvg-logo="http://imgfz.com/i/bpNw4yO.png" tvg-id="Microvision" group-title="Internacional",Microvision
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
